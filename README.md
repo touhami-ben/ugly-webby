@@ -1,8 +1,8 @@
 # ugly-webby
 
-For our first CSS project, we aren't going to have the difficult job of having a vision in mind and trying to make it happen with CSS. In fact, we're going to be taking a reasonable looking (if not beautiful) site and making it as unreasonable looking as possible.
+For our first CSS activity, we aren't going to have the difficult job of having a vision in mind and trying to make it happen with CSS. In fact, we're going to be taking a reasonable looking (if not beautiful) site and making it as _unreasonable_ looking as possible.
 
-Fork this repo, then check out style.css. Play with the values, add new property-value combinations (maybe play with the `background-color` property?), add CSS rules for other selectors (`h3` for example doesn't have any rules for it yet!), and just generally mess stuff _up_.
+Fork and clone this repo, then check out style.css. Play with the values, add new property-value combinations (maybe play with the `background-color` property?), add CSS rules for other selectors (`h3` for example doesn't have any rules for it yet!), and just generally mess stuff _up_.
 
 _Don't change the html at all_, but `style.css` is your personal playground.
 
